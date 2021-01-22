@@ -2,7 +2,8 @@
     "name": "Lent MADPID Project - Cosmo Page Croft",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "corgio": "*"
     },
     "files": [
         "main.blocks",
